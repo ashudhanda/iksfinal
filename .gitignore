@@ -1,0 +1,11 @@
+# Python helper files
+parse_questions.py
+verify_answers.py
+extracted_text.txt
+
+# PDF source
+*.pdf
+
+# OS files
+Thumbs.db
+.DS_Store
