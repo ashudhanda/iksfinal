@@ -181,7 +181,7 @@ const QUESTIONS = [
     id: 30,
     question: "Devanagari Script was developed in…......centuary.",
     options: ["9th century CE", "8th century CE", "7th century CE", "6th century CE"],
-    correct: 1
+    correct: 2
   },
   {
     id: 31,
