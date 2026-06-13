@@ -403,7 +403,7 @@ const QUESTIONS = [
     id: 67,
     question: "Which ancient Indian text contains the earliest known discussion of permutations and combinations?",
     options: ["Lilavati", "Yuktibhāṣā", "Chandah Sāstra", "Siddhanta Shiromani"],
-    correct: 0
+    correct: 2
   },
   {
     id: 68,
