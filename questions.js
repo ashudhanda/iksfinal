@@ -355,7 +355,7 @@ const QUESTIONS = [
     id: 59,
     question: "What was the primary purpose of 'Kupya' in ancient Indian metallurgy?",
     options: ["A type of furnace", "A crucible for melting metals", "A bellow for air supply", "A hammer for forging"],
-    correct: 0
+    correct: 1
   },
   {
     id: 60,
